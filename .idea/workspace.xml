@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d4a760b-c822-45fb-885d-8e6f6aa14253" name="Changes" comment="ege" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Kompanevic"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kompanevic/ege.git",
+    "accountId": "37f22958-b5c0-4e52-b5f0-ebdf58aec685"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="34v7bCjTQT8kRCYNTOTUPM6ufmU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.13-68246.executor": "Run",
+    "Python.13_14773.executor": "Run",
+    "Python.14.11111.executor": "Run",
+    "Python.15-68516.executor": "Run",
+    "Python.15_ 16045.executor": "Run",
+    "Python.15_ 81799.executor": "Run",
+    "Python.15_34519.executor": "Run",
+    "Python.15_59753.executor": "Run",
+    "Python.17_ 68518.executor": "Run",
+    "Python.17_59695.executor": "Run",
+    "Python.25_33770.executor": "Run",
+    "Python.25_72610.executor": "Run",
+    "Python.25_  69927.executor": "Run",
+    "Python.2_shastin2.executor": "Run",
+    "Python.5_shastin2.executor": "Run",
+    "Python.5_ 52176.executor": "Run",
+    "Python.6_47213.executor": "Run",
+    "Python.6_shastin2.executor": "Run",
+    "Python.6_ 47311.executor": "Run",
+    "Python.8_13356.executor": "Run",
+    "Python.8_58237.executor": "Run",
+    "Python.9_24360.executor": "Run",
+    "Python.9_58322.executor": "Run",
+    "Python.9 №  56509.executor": "Run",
+    "Python.9 №  68271.executor": "Run",
+    "Python.LIST.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.КИМ № 25122069 БР № 2832503195017.executor": "Run",
+    "Python.КИМ № 25128661 БР № 2832503195017.executor": "Run",
+    "Python.Тип 9 №  45243.executor": "Run",
+    "Python.Тип 9 №  83139.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.general"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d4a760b-c822-45fb-885d-8e6f6aa14253" name="Changes" comment="" />
+      <created>1762082260393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762082260393</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ege">
+      <option name="closed" value="true" />
+      <created>1768135263183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768135263183</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ege" />
+    <option name="LAST_COMMIT_MESSAGE" value="ege" />
+  </component>
+</project>
